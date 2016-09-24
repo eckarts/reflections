@@ -1,0 +1,53 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By viewing the before and after, the change or difference was clear
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Understanding the history of changes helps to understand the evolution of
+    the version
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro:  allows you to save after you have completed all the changes that
+    you wanted to make
+    Cons: you risk introducing tomany changes at a time and it becomes more
+    difficult which change may have impacted the version negatively
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Again, committing to making too many changes at one time makes it more
+    difficult to isolate the change the negatively impacted the version
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log captures the history of changes to a version/branch and git diff
+    presents the differences between two versions
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Increases confidence to try making changes that may be out of my 
+    comfort zone knowing that the risk is minimized by having a working version
+    that I can return to easily
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Python program development
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can go back to earlier versions and implement more efficient or
+    effective code.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git Log provides complete history of changes and highlights each commit
+    Git diff compares specific commits
+
