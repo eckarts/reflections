@@ -15,3 +15,9 @@ What needs to happen to set up a default git editor?
 		git config —global core.editor “open —W -n”
 		git config —global push.default upstream
 		git config —global merge.conflictstyle diff3
+
+How can you see the staging area to make sure you have one commit per logical change?
+
+	You can set aside a version that you had made a logical change to and
+	continue with the next logical change on the version in your working
+	directory.
