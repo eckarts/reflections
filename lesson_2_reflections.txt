@@ -1,4 +1,4 @@
-What ahppens when you initialize a repository?  Why do you need to do it?
+What happens when you initialize a repository?  Why do you need to do it?
 
 	When git is initialized it creates a store to capture commit history and versions.
 	
@@ -9,3 +9,9 @@ How is the staging area different from the working directory and the repository?
 	also allows you to reset and remove files from the staging area if you decide additonal
 	changes are required before making the commit.
 	
+What needs to happen to set up a default git editor?
+
+	At command line:
+		git config —global core.editor “open —W -n”
+		git config —global push.default upstream
+		git config —global merge.conflictstyle diff3
