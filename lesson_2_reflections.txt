@@ -21,3 +21,10 @@ How can you see the staging area to make sure you have one commit per logical ch
 	You can set aside a version that you had made a logical change to and
 	continue with the next logical change on the version in your working
 	directory.
+
+What are some situations when branches would be helpful in keeping our history organized?  How would branches help?
+
+	Branches provide a means of testing new functionality without impacting
+	a functioning version. Branches also provide a means of using existing
+	code as a means of veering off into a new direction while still being able
+	to maintain the branch with the original objectives.
