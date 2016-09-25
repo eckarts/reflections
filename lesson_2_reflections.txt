@@ -28,3 +28,8 @@ What are some situations when branches would be helpful in keeping our history o
 	a functioning version. Branches also provide a means of using existing
 	code as a means of veering off into a new direction while still being able
 	to maintain the branch with the original objectives.
+
+How do the diagrams help you visualize the branch structure?
+
+	Clearly represents the parenting of each commit and the paraent commit that
+	the branches are spawned off of.
