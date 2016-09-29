@@ -33,3 +33,13 @@ How do the diagrams help you visualize the branch structure?
 
 	Clearly represents the parenting of each commit and the paraent commit that
 	the branches are spawned off of.
+
+What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
+
+	The result is a single branch with all committed changes.
+
+Was are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pro auto vs. manual - clean comprehensive merge
+	Con auto vs. manual - you are not always aware of what changes are being 		merged in
+
